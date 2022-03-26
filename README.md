@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hey everyone, I'm Diya, a final year undergrad 👋
 
 <!--
 **sunshine-19/sunshine-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=sunshine-19&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Diya" width="700">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sunshine-19&theme=jolly" width="700">
