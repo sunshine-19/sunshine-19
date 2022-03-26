@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=sunshine-19&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Diya" width="700">
 
+![](https://github.com/sunshine-19/sunshine-19/blob/main/pexels-cottonbro-5473298.jpg)
+Everyday, I get to create awesome experiences and work on some cool projects. Always happy to help women & girls in Tech! Keep an eye for various educational content.
+
+<img src="https://github-readme-stats.vercel.app/api?username=sunshine-19&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Diya" width="700">
+“At Some Point, We All Have To Choose Between What The World Wants You To Be And Who You Are.” I chose to be who I am!
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sunshine-19&theme=jolly" width="700">
