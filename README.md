@@ -1,4 +1,4 @@
-# 👋 Hey everyone, I'm Diya, a software engineer 👋
+# 👋 Hiya , I'm Diya, a software engineer 👋
 
 <!--
 **sunshine-19/sunshine-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
